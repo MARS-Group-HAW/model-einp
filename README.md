@@ -1,6 +1,6 @@
 # Elk Island National Park Model
 
-The EINP Model is a simple [MARS](https://www.mars-group.org/docs/tutorial/intro#what-is-mars) model that simmulates the bison, elk and moose population of Elk Island National Park.
+The EINP Model is a simple [MARS](https://www.mars-group.org/docs/tutorial/intro#what-is-mars) model that simulates the bison, elk and moose population of Elk Island National Park.
 
 ## Quickstart
 To use the model clone the repository by running:
